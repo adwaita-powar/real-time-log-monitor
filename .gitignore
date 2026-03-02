@@ -1,0 +1,11 @@
+# Build files
+build/
+*.o
+*.out
+
+# Executable
+log_engine
+
+# Log files
+engine.log
+logs/*.log
